@@ -5,6 +5,7 @@
     modern patterns
   </strong>
   <p>
+    
     Not only learn great patterns you can use but also the strengths and
     weaknesses of each, so you know which to reach for to provide your custom
     hooks and components the flexibility and power you need.
